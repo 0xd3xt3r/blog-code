@@ -1,4 +1,4 @@
-## Blog : [dexters-lab.net](https://www.dexters-lab.net)
+## Blog : [www.taintedbits.com](https://www.taintedbits.com)
 
 Instead of having a new repository for each blog post this repository will be a collection of all the code snippet for each post separated by folder for each blog post
 
